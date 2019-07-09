@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="836" version="1.1" width="763" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="342" cy="22" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="183" x="251" y="87"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="185" x="250" y="86"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="183" x="251" y="87"/>
+<text font-family="Lucida Grande" font-size="13" x="263" y="106">
+Ingresar Ruta a index.php</text>
+<polyline fill="none" points="342,30 342,87" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="335" x2="342" y1="75" y2="87"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="349" x2="342" y1="75" y2="87"/>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="262" x="15" y="231"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="264" x="14" y="230"/>
+<rect fill="#ffffff" height="50" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="262" x="15" y="231"/>
+<text font-family="Lucida Grande" font-size="13" x="65" y="250">
+Crear Archivo Controlador</text>
+<text font-family="Lucida Grande" font-size="13" x="27" y="266">
+&lt;&lt;controllers/nombre.control.php&gt;&gt;</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="576" x="54" y="166"/>
+<polyline fill="none" points="342,120 342,166" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="335" x2="342" y1="154" y2="166"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="349" x2="342" y1="154" y2="166"/>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="205" x="247" y="335"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="207" x="246" y="334"/>
+<rect fill="#ffffff" height="50" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="205" x="247" y="335"/>
+<text font-family="Lucida Grande" font-size="13" x="271" y="354">
+Crear Archivo de Plantilla</text>
+<text font-family="Lucida Grande" font-size="13" x="258" y="370">
+&lt;&lt;views/nombre.view.tpl&gt;&gt;</text>
+<polyline fill="none" points="342,172 342,334" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="335" x2="342" y1="322" y2="334"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="349" x2="342" y1="322" y2="334"/>
+<polyline fill="none" points="137,171 137,230" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="130" x2="137" y1="218" y2="230"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="144" x2="137" y1="218" y2="230"/>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="234" x="423" y="231"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="236" x="422" y="230"/>
+<rect fill="#ffffff" height="50" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="234" x="423" y="231"/>
+<text font-family="Lucida Grande" font-size="13" x="474" y="250">
+Crear Archivo Modelo</text>
+<text font-family="Lucida Grande" font-size="13" x="435" y="266">
+&lt;&lt;models/nombre.model.php&gt;&gt;</text>
+<polyline fill="none" points="541,172 541,230" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="534" x2="541" y1="218" y2="230"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="548" x2="541" y1="218" y2="230"/>
+<text font-family="Lucida Grande" font-size="13" x="548" y="203">
+ [requiere acceso a datos en DB]</text>
+<rect fill="#000000" height="7" stroke="#000000" stroke-width="1" width="568" x="54" y="478"/>
+<polyline fill="none" points="137,280 137,478" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="130" x2="137" y1="466" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="144" x2="137" y1="466" y2="478"/>
+<polyline fill="none" points="349,384 349,478" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="349" y1="466" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="356" x2="349" y1="466" y2="478"/>
+<polyline fill="none" points="540,280 540,478" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="533" x2="540" y1="466" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="547" x2="540" y1="466" y2="478"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="281" x="215" y="551"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="283" x="214" y="550"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="281" x="215" y="551"/>
+<text font-family="Lucida Grande" font-size="13" x="226" y="570">
+Modificar Archivos según requerimientos</text>
+<polyline fill="none" points="349,484 349,551" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="349" y1="539" y2="551"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="356" x2="349" y1="539" y2="551"/>
+<rect fill="#00ff" height="34" rx="36" ry="36" stroke="#00ff" stroke-width="1" width="235" x="240" y="687"/>
+<rect fill="#ffffff" height="36" rx="36" ry="36" stroke="#000000" stroke-width="1" width="237" x="239" y="686"/>
+<rect fill="#ffffff" height="34" rx="36" ry="36" stroke="#ffffff" stroke-width="1" width="235" x="240" y="687"/>
+<text font-family="Lucida Grande" font-size="13" x="251" y="706">
+Probar Syntaxis y Funcionamiento</text>
+<polyline fill="none" points="349,585 349,686" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="342" x2="349" y1="674" y2="686"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="356" x2="349" y1="674" y2="686"/>
+<ellipse cx="346" cy="810" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="346" cy="810" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="345" cy="809" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="346,720 346,798" stroke="#333399" stroke-width="1"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="339" x2="346" y1="786" y2="798"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="353" x2="346" y1="786" y2="798"/>
+</svg>

@@ -1,0 +1,49 @@
+.heropanel {
+  display: block;
+  box-sizing: border-box;
+  min-height: 90vh;
+  background-image: url('../imgs/hpm.jpg');
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+  background-color: #EEE;
+  margin-left: -16px;
+  margin-right: -16px;
+  margin-top: -32px;
+  margin-bottom: 0px;
+  position: relative;
+}
+
+.heropanel h1 {
+  position: absolute;
+  top: 15%;
+  left: calc(50% - 125px);
+  width:250px;
+  text-shadow: 1px 1px 3px #000;
+  text-align: center;
+}
+
+.heropanel a {
+  position: absolute;
+  top: 53%;
+  left: calc(50% - 100px);
+  width:200px;
+  text-decoration: none;
+  padding: 1.5em 2em;
+  text-align: center;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.cards>div{
+  width: 45%;
+  text-align: center;
+  padding:1em;
+  border: 1px solid #555;
+  margin:2.5%;
+}
